@@ -15,7 +15,6 @@ section {
 
 .user_profile {
     border: 1px solid black;
-    flex-grow: 1;
     text-align: center;
     padding: 5px;
     margin-left: auto;
